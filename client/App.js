@@ -10,7 +10,7 @@ export default function App() {
         source={{
           uri: "https://cdn.pixabay.com/photo/2023/08/19/17/36/bird-8200917_1280.jpg",
         }}
-        style={{ width: 200, height: 200 }}
+        className="w-32 h-32"
       />
       <TextInput
         style={{
